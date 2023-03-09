@@ -1,1 +1,1 @@
-# a classification project
+# A classification project
